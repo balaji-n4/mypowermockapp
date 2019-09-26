@@ -1,0 +1,2 @@
+# mypowermockapp
+PoweMockito Samples
